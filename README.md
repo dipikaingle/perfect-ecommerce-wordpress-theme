@@ -92,4 +92,4 @@ WordPress Developer (7.6+ years experience)
 ---
 
 ## ⭐ Support
-If you like this project, feel free to ⭐ the repository!
+If you like this project, feel free to ⭐ the Perfect E-commerce Store!

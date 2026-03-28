@@ -39,12 +39,17 @@ This theme is ideal for:
 ---
 
 ## 📷 Screenshots
--Home Page
+- Home Page
 ![Homepage](./ecommerce/homepage.jpg)
+- Shop Page
 ![Shop Page](./ecommerce/shoppage.jpg)
+- Category Page
 ![Category Page](./ecommerce/categorypage.jpg)
+- Product Page
 ![Product Page](./ecommerce/productpage.jpg)
+- Blog Page
 ![Blog Page](./ecommerce/blogpage.jpg)
+- Mobile View
 ![MobileView](./ecommerce/mobileview.jpg)
 
 ---

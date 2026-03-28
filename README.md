@@ -45,7 +45,7 @@ This theme is ideal for:
 ![Category Page](./ecommerce/categorypage.jpg)
 ![Product Page](./ecommerce/productpage.jpg)
 ![Blog Page](./ecommerce/blogpage.jpg)
-![Mobile View](./ecommerce/mobileview.jpg)
+![MobileView](./ecommerce/mobileview.jpg)
 
 ---
 

@@ -39,7 +39,7 @@ This theme is ideal for:
 ---
 
 ## 📷 Screenshots
-
+-Home Page
 ![Homepage](./ecommerce/homepage.jpg)
 ![Shop Page](./ecommerce/shoppage.jpg)
 ![Category Page](./ecommerce/categorypage.jpg)

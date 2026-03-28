@@ -39,11 +39,13 @@ This theme is ideal for:
 ---
 
 ## 📷 Screenshots
-_Add screenshots here (homepage, product page, mobile view)_
 
-Example:
-![Homepage](./screenshots/homepage.png)
-![Product Page](./screenshots/product.png)
+![Homepage](./screenshots/homepage.jpg)
+![Shop Page](./screenshots/shoppage.jpg)
+![Category Page](./screenshots/categorypage.jpg)
+![Product Page](./screenshots/productpage.jpg)
+![Blog Page](./screenshots/blogpage.jpg)
+![Mobile View](./screenshots/mobileview.jpg)
 
 ---
 

@@ -40,12 +40,12 @@ This theme is ideal for:
 
 ## 📷 Screenshots
 
-![Homepage](./screenshots/homepage.jpg)
-![Shop Page](./screenshots/shoppage.jpg)
-![Category Page](./screenshots/categorypage.jpg)
-![Product Page](./screenshots/productpage.jpg)
-![Blog Page](./screenshots/blogpage.jpg)
-![Mobile View](./screenshots/mobileview.jpg)
+![Homepage](./ecommerce/homepage.jpg)
+![Shop Page](./ecommerce/shoppage.jpg)
+![Category Page](./ecommerce/categorypage.jpg)
+![Product Page](./ecommerce/productpage.jpg)
+![Blog Page](./ecommerce/blogpage.jpg)
+![Mobile View](./ecommerce/mobileview.jpg)
 
 ---
 
